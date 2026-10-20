@@ -2,7 +2,7 @@
 
 Windows 11 için Türkçe ve İngilizce yerel ses yazımı. Ctrl + çift tırnak tuşlarını basılı tutun, konuşun ve bırakın.
 
-[GenAI Setup.exe indir](https://github.com/qufu-io/qufu-genai-releases/releases/latest/download/GenAI%20Setup.exe) · [Sürümler](https://github.com/qufu-io/qufu-genai-releases/releases) · [Kullanım kılavuzu](docs/KULLANIM.md)
+[GenAI Setup.exe indir](https://github.com/qufu-io/qufu-genai-releases/releases/latest/download/GenAI.Setup.exe) · [Sürümler](https://github.com/qufu-io/qufu-genai-releases/releases) · [Kullanım kılavuzu](docs/KULLANIM.md)
 
 ## Kurulum
 
@@ -31,4 +31,4 @@ Yazar / bakım: **Alper <alper@qufu.io>**. Katkı: **Codex** (AI-assisted develo
 
 GenAI is a Windows 11 x64 push-to-talk dictation app for Turkish and English. Hold Ctrl + double quote, speak, then release. The installer selects Vulkan or CPU support; download the local Q-ASR / Whisper Turbo Q5 model in the app. Recognition then works offline. Personal corrections do not train model weights in real time. Sending training recordings is optional and requires explicit consent and device approval. Updates use GitHub Releases. Source code is maintained privately.
 
-[Download](https://github.com/qufu-io/qufu-genai-releases/releases/latest/download/GenAI%20Setup.exe) · [Report a bug](https://github.com/qufu-io/qufu-genai-releases/issues/new/choose) · Contact: alper@qufu.io
+[Download](https://github.com/qufu-io/qufu-genai-releases/releases/latest/download/GenAI.Setup.exe) · [Report a bug](https://github.com/qufu-io/qufu-genai-releases/issues/new/choose) · Contact: alper@qufu.io
