@@ -1,0 +1,21 @@
+name: Hata bildir / Bug report
+description: Uygulamadaki bir sorunu bildirin / Report an application problem
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: GenAI sürümü / Version
+    validations:
+      required: true
+  - type: textarea
+    id: system
+    attributes:
+      label: Windows ve donanım / Windows and hardware
+      description: Windows sürümü, CPU ve GPU. Kişisel veri eklemeyin.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Sorun ve tekrar adımları / Problem and reproduction
+    validations:
+      required: true

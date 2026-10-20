@@ -1,0 +1,9 @@
+name: Özellik öner / Feature request
+description: Bir iyileştirme önerin / Suggest an improvement
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Öneri ve kullanım senaryosu / Proposal and use case
+    validations:
+      required: true
